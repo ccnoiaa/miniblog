@@ -1,1 +1,1 @@
-# miniblog
+# PHP Application test - My Mini Blog
